@@ -1,0 +1,13 @@
+{
+    "name": "dudson/cms",
+    "authors": [
+        {
+            "name": "DudSon007",
+            "email": "mdudekdudkowski@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/http-foundation": "^4.1",
+        "twig/twig": "^2.0"
+    }
+}
